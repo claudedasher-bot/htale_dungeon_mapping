@@ -1,0 +1,17 @@
+Step by step instructions (windows)
+
+Recommend to use virtual environment 
+> i use venv so 
+> python -m venv <name>
+> <name>/scripts/activate
+
+1. Install this to PATH. This is for pytesseract. 
+https://github.com/UB-Mannheim/tesseract/wiki
+
+2. Run python -m pip install -r requirements.txt
+
+3. Open hytale full screen
+
+4. Run python -m main in the directory (just alt-tab)
+
+5. Have fun (probably because u might encounter ocr bugs)
