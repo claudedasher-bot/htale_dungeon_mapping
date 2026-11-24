@@ -12,6 +12,8 @@ https://github.com/UB-Mannheim/tesseract/wiki
 
 3. Open hytale full screen
 
+4. Click F7 twice to show the coordinates at the right
+
 4. Run python -m main in the directory (just alt-tab)
 
 5. Have fun (probably because u might encounter ocr bugs)
